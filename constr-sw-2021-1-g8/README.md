@@ -7,7 +7,7 @@ Alunos: José Goulart, Guilherme Carvalho, Matheus Tosin, Matheus Ferreira
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".diagram/classDiagram.png" width="100%">
+  <img alt="Frontend" src="diagram/classDiagram.png" width="100%">
 </p>
 
 <br>
