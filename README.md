@@ -16,6 +16,6 @@ Documentação API disponível no [SwaggerHub](https://app.swaggerhub.com/apis/m
 
 ### API Backend
 
-API disponível em [AWS](https://ec2-3-138-183-70.us-east-2.compute.amazonaws.com)
+API disponível em [AWS](ec2-3-138-183-70.us-east-2.compute.amazonaws.com)
 
 
