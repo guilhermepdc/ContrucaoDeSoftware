@@ -14,4 +14,8 @@ Diagrama Astah diponível em ".diagram/ClassDiagram.asta"
 
 Documentação API disponível no [SwaggerHub](https://app.swaggerhub.com/apis/matheus.tosin/cds/1.0.0)
 
+### API Backend
+
+API disponível em [AWS](https://ec2-3-138-183-70.us-east-2.compute.amazonaws.com)
+
 
