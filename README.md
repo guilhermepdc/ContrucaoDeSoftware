@@ -16,6 +16,6 @@ Documentação API disponível no [SwaggerHub](https://app.swaggerhub.com/apis/m
 
 ### API Backend
 
-API disponível em [AWS](http://ec2-3-138-183-70.us-east-2.compute.amazonaws.com)
+API disponível em [AWS](https://app.swaggerhub.com/apis/matheus.tosin/cds/1.0.0-oas3)
 
 
